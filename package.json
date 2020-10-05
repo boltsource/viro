@@ -1,8 +1,9 @@
 {
-  "name": "react-viro",
+  "name": "@boltsource/react-viro",
   "main": "index.js",
   "version": "3.0.0",
   "license": "MIT",
+  "description": "Fork of Viro complaint with new Apple conditions. Removes UIWebView",
   "scripts": {
     "start": "echo 'I dont think you meant to run npm start here.'",
     "test": "jest"
@@ -26,8 +27,6 @@
     "LICENSE"
   ],
   "dependencies": {
-    "prop-types": "^15.5.10",
-    "react": "^16.13.1",
-    "react-native": "^0.62.2"
+    "prop-types": "^15.5.10"
   }
 }
